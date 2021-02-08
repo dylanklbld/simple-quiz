@@ -1,0 +1,18 @@
+.status {
+  display: flex;
+  flex-direction: column;
+}
+
+.info {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.info span {
+  margin: 10px;
+}
+
+.game {
+  justify-content: center;
+}

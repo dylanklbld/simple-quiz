@@ -1,0 +1,23 @@
+.controls {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.start-button {
+  margin: 10px;
+  background-color: greenyellow;
+  font-size: xx-large;
+  font-weight: 700;
+}
+
+.reset-button {
+  margin: 10px;
+  font-size: large;
+  font-weight: 300;
+}
+
+.start-button:hover,
+.reset-button:hover {
+  cursor: pointer;
+}
